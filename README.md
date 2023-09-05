@@ -1,3 +1,3 @@
 # KeyChain
 
-** Made in SolidWorks.
+Made in SolidWorks.
